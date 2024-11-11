@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "honepage": "https://ShenLeixian.github.io/page",
+  "honepage": ".",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
